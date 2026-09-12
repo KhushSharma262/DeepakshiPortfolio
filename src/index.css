@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Inter', sans-serif;
+  color: #1B133C;
+  margin: 0;
+}
+
+/* Canela is a licensed font (Colophon Foundry) - not on Google Fonts.
+   Drop your licensed font files into src/fonts/ and uncomment below,
+   matching the actual filenames you have (woff2 preferred). */
+/*
+@font-face {
+  font-family: 'Canela';
+  src: url('/fonts/Canela-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+*/
+
+.font-canela {
+  font-family: 'Canela', 'Fraunces', serif;
+}

@@ -1,0 +1,57 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 620">
+<defs>
+<filter id="graphite">
+<feTurbulence type="fractalNoise" baseFrequency=".035" numOctaves="2" seed="19" result="n"/>
+<feDisplacementMap in="SourceGraphic" in2="n" scale="1.2"/>
+</filter>
+</defs>
+
+<g fill="none" stroke="#40372f" stroke-linecap="round" stroke-linejoin="round" filter="url(#graphite)">
+
+<path d="M302 38 C245 43 207 94 207 181 C207 278 229 370 270 433 C288 461 300 481 303 510 C306 481 319 460 338 432 C380 369 401 277 400 181 C399 94 360 43 302 38" stroke-width="1.05" opacity=".48"/>
+
+<path d="M302 41 C250 49 218 98 217 180 C216 272 237 359 275 420 C291 445 301 464 303 488" stroke-width=".55" opacity=".25"/>
+
+<path d="M305 42 C356 51 388 100 390 181 C391 272 369 358 332 419 C316 445 305 465 303 489" stroke-width=".55" opacity=".24"/>
+
+<path d="M303 487 C306 443 305 404 299 365 C294 334 280 315 269 289 C254 255 256 229 271 207 C284 188 305 178 323 161 C343 142 349 118 343 94 C338 70 321 51 304 40" stroke-width="2.35" opacity=".72"/>
+
+<path d="M304 486 C308 442 309 403 303 365 C298 334 285 313 274 288 C260 256 261 232 276 211 C289 192 310 181 328 164 C347 144 353 118 347 94 C341 69 323 50 304 40" stroke-width=".65" opacity=".34"/>
+
+<path d="M304 41 C285 54 268 75 259 98 C249 124 253 150 271 165 C286 178 301 177 316 165 C335 149 344 126 340 103 C336 77 320 56 304 41" stroke-width="1.85" opacity=".61"/>
+
+<path d="M304 42 C290 59 279 80 277 104 C275 128 282 147 295 158 C305 166 317 162 327 151 C339 137 343 120 339 103 C335 78 319 57 304 42" stroke-width=".62" opacity=".34"/>
+
+<path d="M304 44 C291 64 286 87 288 107 C290 127 298 143 307 151" stroke-width=".48" opacity=".26"/>
+
+<path d="M306 43 C321 60 334 80 340 101 C346 124 340 146 325 162" stroke-width=".46" opacity=".22"/>
+
+<path d="M270 158 C277 133 289 105 305 80" stroke-width=".42" opacity=".22"/>
+<path d="M262 146 C269 119 282 93 301 68" stroke-width=".38" opacity=".18"/>
+<path d="M280 167 C290 141 303 115 319 91" stroke-width=".4" opacity=".18"/>
+
+<path d="M307 164 C336 175 363 190 370 209 C378 231 358 248 328 263 C298 277 270 290 264 313 C258 336 273 356 298 370 C321 383 339 394 345 414" stroke-width="2.55" opacity=".68"/>
+
+<path d="M309 167 C338 179 358 191 365 210 C372 230 352 245 324 259 C295 274 267 289 261 313 C255 337 271 359 296 373 C318 386 335 397 342 416" stroke-width=".68" opacity=".34"/>
+
+<path d="M312 169 C340 181 361 195 367 213 C372 230 354 243 326 257" stroke-width=".42" opacity=".20"/>
+
+<path d="M265 313 C276 334 294 349 315 359 C333 368 344 382 347 398" stroke-width=".48" opacity=".24"/>
+
+<path d="M299 370 C305 394 307 417 303 442 C300 459 301 475 303 487" stroke-width="1.02" opacity=".45"/>
+
+<path d="M297 371 C301 394 302 417 298 442 C296 457 298 474 302 487" stroke-width=".42" opacity=".22"/>
+
+<path d="M302 487 C299 497 295 507 289 516" stroke-width=".68" opacity=".30"/>
+
+<path d="M304 487 C307 497 309 507 308 516" stroke-width=".4" opacity=".20"/>
+
+<path d="M414 132 L420 146 L434 152 L420 158 L414 172 L408 158 L394 152 L408 146 Z" stroke-width=".92" opacity=".55"/>
+
+<path d="M225 227 C238 219 249 210 258 199" stroke-width=".38" opacity=".13"/>
+<path d="M380 227 C368 219 359 210 351 199" stroke-width=".38" opacity=".13"/>
+<path d="M239 356 C250 364 258 373 264 383" stroke-width=".36" opacity=".12"/>
+<path d="M367 356 C357 364 350 373 344 383" stroke-width=".36" opacity=".12"/>
+
+</g>
+</svg>
